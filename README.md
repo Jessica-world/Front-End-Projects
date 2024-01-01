@@ -1,2 +1,9 @@
-# Front-End-Projects
-All the parts has different branches to see the work of each part you need to visit that particular branch.For example to see the project made in HTML5 move to the HTML5 branch and many more.
+**#HTML+CSS**
+
+It has different projects which I created using Html and CSS specially the flexbox concept to make it responsive and flexible.
+Following are some projects that I created:-
+
+**1.Bagnic-Online Bags store**
+The landing page for Bagnic is a conceptual creation, not an actual website, envisioned purely in the realm of imagination.
+**2.Huel-Nutritionally Complete Food**
+It features a landing page inspired by the original website, Huel.com
